@@ -43,3 +43,22 @@ verification du bonne accès au serveur depuis un navigateur externe
 difficulter à acorder les droits à l'utilisateur www-data  
 incompréhension suite au changement du nom du DNS  
 serveurdeleo -> 2a4v2-31uvm148
+
+## 3.Serveur Web sécurisé https
+
+### Instalation
+
+pas d'instalation  
+
+### configuaration
+
+serveur web securisé
+
+### travail effectuer
+
+mise en place d'un certificat pour une connextion web securisé
+
+
+### problémes rencontés
+
+pas de probléme rencontré mise à part le problème evoqué dans la partie 2
