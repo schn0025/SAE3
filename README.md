@@ -6,59 +6,74 @@
 
 ## MAROC Mohamed-Nour Maro0040
 
-## 1.Gestion des services : systemd
+## 1. Gestion des services : systemd
 
-### Instalation
+### Installation
 
-Pas d'instalation
+Pas d'installation
 
-### configuaration
+### Configuration
 
-pas de configuration
+Pas de configuration
 
-### travail effectué
+### Travail effectué
 
-verification du bon fonctionement du servise sshd
+Vérification du bon fonctionnement du service sshd
 
-### problémes rencontés
+### Problèmes rencontrés
 
-## 2.Serveur Web apache2
+Aucun problème rencontré
 
-### Instalation
+## 2. Serveur Web apache2
 
-apache2  
+### Installation
 
-### configuaration
+Apache2
 
-serveur web
+### Configuration
 
-### travail effectuer
+Serveur Web
 
-création d'une page d'acceuil  
-affectation de droit à l'utilisateur www-data  
-verification du bonne accès au serveur depuis un navigateur externe
+### Travail effectué
 
-### problémes rencontés
+Création d'une page d'accueil
+Affectation de droits à l'utilisateur www-data
+Vérification du bon accès au serveur depuis un navigateur externe
 
-difficulter à acorder les droits à l'utilisateur www-data  
-incompréhension suite au changement du nom du DNS  
-serveurdeleo -> 2a4v2-31uvm148
+### Problèmes rencontrés
 
-## 3.Serveur Web sécurisé https
+Difficulté à accorder les droits à l'utilisateur www-data
+Incompréhension suite au changement du nom du DNS
+Serveurdeleo -> 2a4v2-31uvm148
 
-### Instalation
+## 3. Serveur Web sécurisé https
 
-pas d'instalation  
+### Installation
 
-### configuaration
+Pas d'installation
 
-serveur web securisé
+### Configuration
 
-### travail effectuer
+Serveur Web sécurisé
 
-mise en place d'un certificat pour une connextion web securisé
+### Travail effectué
 
+Mise en place d'un certificat pour une connexion Web sécurisée
 
-### problémes rencontés
+### Problèmes rencontrés
 
-pas de probléme rencontré mise à part le problème evoqué dans la partie 2
+Aucun problème rencontré, mis à part le problème évoqué dans la partie 2
+
+## 4. Langage de programmation PHP 
+
+### Installation
+
+Paquets php et libapache2-mod-php
+
+### Configuration
+
+Autorisation d'exécution de PHP pour les pages Web des utilisateurs
+
+### Travail effectué
+
+Création du fichier index.php
