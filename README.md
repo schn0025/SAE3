@@ -77,3 +77,23 @@ Autorisation d'exécution de PHP pour les pages Web des utilisateurs
 ### Travail effectué
 
 Création du fichier index.php
+
+## 5. Serveur de base de données MySQL
+
+### Installation
+
+Paquet MySQL
+
+### Configuration
+
+Configuration de la sérurité du serveur MySQL
+
+### Travail effectué
+
+Création de l'utilisateur admin  
+Attribution des privilèges à un utilisateur admin
+
+### Problèmes rencontrés 
+
+sudo mysql_secure_installation ne fonctionne pas si le mot de passe de l'utilisateur root n'est pas défini, il a donc fallut le définir au préalable  
+sudo mysql ne fonctionne pas pour se connecter au serveur MySQL, il faut taper la ligne mysql -u root quand le mot de passe n'est pas défini et mysql -u root -p quand il l'est
