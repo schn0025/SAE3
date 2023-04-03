@@ -97,3 +97,21 @@ Attribution des privilèges à un utilisateur admin
 
 sudo mysql_secure_installation ne fonctionne pas si le mot de passe de l'utilisateur root n'est pas défini, il a donc fallut le définir au préalable  
 sudo mysql ne fonctionne pas pour se connecter au serveur MySQL, il faut taper la ligne mysql -u root quand le mot de passe n'est pas défini et mysql -u root -p quand il l'est
+
+## 6. Outil d'administration de bases de données phpMyAdmin
+
+### Installation
+
+Paquet phpmyadmin
+
+### Configuration
+
+mise en place des elements nesesaires a l'installation de Phpmyadmin
+
+### Travail effectué
+
+mise ne place pas de Phpmyadmin, création de l'utilisateur mysqltest (a pour mot de passe teste)
+
+### Problèmes rencontrés 
+
+pas de problème rencontré
