@@ -110,8 +110,22 @@ mise en place des elements nesesaires a l'installation de Phpmyadmin
 
 ### Travail effectué
 
-mise ne place pas de Phpmyadmin, création de l'utilisateur mysqltest (a pour mot de passe teste)
+mise en place de Phpmyadmin, création de l'utilisateur mysqltest (a pour mot de passe teste)
 
 ### Problèmes rencontrés 
 
 pas de problème rencontré
+
+## 7. Installation du CMS WordPress
+
+### Installation
+WordPress
+
+### Configuration
+Configuration du WordPress
+
+### Travail effectué
+Configuration des paramètres de WordPress
+
+### Problème rencontré
+Il faut penser a attribuer les droits sur le fichier de configuration
