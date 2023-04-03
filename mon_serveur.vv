@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=réseau
+host=one-dell1
+port=10841
+proxy=http://one-frontend:29876?token=sm7lspqt73xanp1s99sc
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
